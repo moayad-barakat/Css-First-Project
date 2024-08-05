@@ -195,3 +195,100 @@ a{
 
 
 /* END SECTION 2 */
+
+
+
+/* START SECTION 3 */
+
+
+.div3-{
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 450px 450px;
+    justify-content: space-evenly;
+    align-content: center;
+}
+
+.h1-s3{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.fa-plus{
+    margin-top: 20px;
+    color: orange;
+}
+
+.h3-s3{
+    margin-left: 25px;
+    margin-top: -25px;
+}
+
+
+/* END SECTION 3 */
+
+
+
+/* START SECTION 4 */
+
+.div4{
+    background-color: black;
+}
+
+
+.div4-{
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    grid-template-rows: 450px 450px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.h1-s4{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+
+.p1-s4{
+    font-size: 17px;
+    width: 600px;
+    line-height: 25px;
+    margin-top: 30px;
+    margin-left: 450px;
+    color: white;
+}
+
+
+
+.x{
+    border: solid ;
+    background-color: white;
+   width: 370px;
+}
+
+
+.img1-s4{
+
+    width: 350px;
+    height: 300px;
+}
+
+.h2-s4{
+    
+    text-align: center;
+    margin-top: 30px;
+    
+    
+}
+
+#h3-s4{
+    color: white;
+    margin-top: 150px;
+    text-align: center;
+}
+
+
+/* EMD SECTION 4 */
